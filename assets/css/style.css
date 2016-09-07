@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+    font-family: Lato;
+    margin: 0 auto;
+    max-width: 1200px;
+    margin-bottom: 50px;
+}
+
+.nav {
+    background-color: inherit;
+    margin: 0 10%;
+}
+
+.container {
+    margin: 0 10%;
+}
+
+img {
+    border-radius: 50%;
+    margin: 10px auto;
+    display: block;
+}
+
+.profile p {
+    padding-top: 20px;
+    font-size: 14pt;
+}
+
+.resume p {
+    color: #000;
+    font-size: 11pt;
+    margin: .5em 0;
+
+}
+
+.resume h4 {
+    margin: 2em 0 0 0 !important;
+}
+
+.resume .sub {
+    color: #595757;
+    font-size: 10pt;
+}
+
+.job {
+    margin-bottom: 3em;
+}
+
+.job .icon {
+    font-size: 10pt;
+}
+
+.job a {
+    color: #000;
+}
+
+.job a:hover {
+    text-decoration: underline;;
+}
+
+hr {
+    margin: 3em 0 0 0 !important;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid;
+}
+
+ul {
+    margin: 0 0 0 30px;
+}
+
+ul li {
+    list-style: disc;
+    color: #000;
+    font-size: 11pt;
+}
